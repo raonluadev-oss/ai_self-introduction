@@ -1,0 +1,9 @@
+{
+  "name": "ai-marker-remover",
+  "displayName": "AI Marker Remover",
+  "description": "작성된 글에서 AI 특유의 표현/문체, 눈에 보이지 않는 워터마크 문자, AI 생성 메타데이터 흔적을 찾아 제거하고 자연스러운 글로 다듬어주는 플러그인",
+  "version": "0.1.0",
+  "author": {
+    "name": "suip9678"
+  }
+}
